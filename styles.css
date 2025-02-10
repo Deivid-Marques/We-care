@@ -88,7 +88,7 @@ p {
     filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));/*essa propriedade coloca uma sombra no fundo do botão*/
 }
     /*Responsividade do site*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
 
     header{
         display: none;
