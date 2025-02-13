@@ -8,4 +8,4 @@
 <p>CSS</p>
 <img src="https://github.com/Deivid-Marques/We-care/blob/main/img/phone%20we%20care.png?raw=true" height= 250px>   <img src="https://github.com/Deivid-Marques/We-care/blob/main/img/Monitor-we-care.png?raw=true" height= 300px>
 
-<p>Com esse projeto melhorei meu CSS</p>
+<p>Com esse projeto melhorei meus conhecimentos em CSS</p>
