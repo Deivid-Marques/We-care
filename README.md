@@ -6,6 +6,10 @@
 <h2>Tecnologias utilizadas</h2>
 <p>HTML</p>
 <p>CSS</p>
-<img src="https://github.com/Deivid-Marques/We-care/blob/main/img/phone%20we%20care.png?raw=true" height= 250px>   <img src="https://github.com/Deivid-Marques/We-care/blob/main/img/Monitor-we-care.png?raw=true" height= 300px>
+<p align="left">
+  <img src="https://github.com/Deivid-Marques/We-care/blob/main/img/phone%20we%20care.png?raw=true" height="200">
+  <img src="https://github.com/Deivid-Marques/We-care/blob/main/img/Monitor-we-care.png?raw=true" width="200">
+</p>
+
 
 <p>Com esse projeto melhorei meus conhecimentos em CSS</p>
